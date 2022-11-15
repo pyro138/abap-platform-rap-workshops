@@ -1,5 +1,5 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/abap-platform-rap-workshops)](https://api.reuse.software/info/github.com/SAP-samples/abap-platform-rap-workshops)
-
+SESSION 094
 # Workshops about the ABAP RESTful Application Programming Model (RAP)
 
 ## Description
